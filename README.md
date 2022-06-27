@@ -12,4 +12,4 @@ The project structure is simple: it includes one feature file with one scenario,
 
 # Installation
 
-Clone the project from [Github]() to your workspace, then run 'Run' file in the 'Runners' package.
+Clone the project from [Github](https://github.com/ArturMadoyan/FirstCucumberProject) to your workspace, then run 'Run' file in the 'Runners' package.
